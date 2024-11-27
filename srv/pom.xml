@@ -17,6 +17,11 @@
 		<!-- CDS SPRING BOOT STARTER -->
 		<dependency>
 			<groupId>com.sap.cds</groupId>
+			<artifactId>cds-starter-cloudfoundry</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>com.sap.cds</groupId>
 			<artifactId>cds-starter-spring-boot</artifactId>
 		</dependency>
 
